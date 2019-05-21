@@ -5,9 +5,9 @@
 
 Instale as dependências do projeto usando:
 
-´´´
+```
 npm install
-´´´
+```
 
 Os pacotes explo-cli e axios são utilizados neste projeto.
 
@@ -15,6 +15,6 @@ Os pacotes explo-cli e axios são utilizados neste projeto.
 
 Na pasta do projeto e execute o comando:
 
-´´´
+```
 expo start
-´´´
+```
