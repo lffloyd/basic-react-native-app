@@ -3,7 +3,7 @@
 
 ## Pré-requisitos
 
-Instale as dependências do projeto usando:
+Dentro da pasta "Acom", instale as dependências do projeto usando:
 
 ```
 npm install
@@ -13,7 +13,7 @@ Os pacotes explo-cli e axios são utilizados neste projeto.
 
 ## Executando
 
-Na pasta do projeto e execute o comando:
+Ainda na pasta "Acom", execute o comando abaixo para iniciar o projeto:
 
 ```
 expo start
